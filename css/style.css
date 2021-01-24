@@ -404,9 +404,6 @@ a {
 }
 
 .contact__info {
-    /* display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap; */
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-items: center;
@@ -419,6 +416,7 @@ a {
     position: relative;
     left: 50%;
     transform: translate(-50%, 0%);
+    border: 0px;
 }
 
 .contact__map {
