@@ -78,7 +78,8 @@
     }
 
     .faq__subtitle, .faq__title{
-        padding: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     .faq__list {
